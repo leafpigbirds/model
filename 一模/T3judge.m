@@ -1,0 +1,12 @@
+A=atand(263/553);
+B=atand(60/592);
+C=atand(179/568);
+D=atand(504/439);
+angle=D;
+result=roots( [sind(local)^2+cosd(angle)^2*cosd(local)^2 -2*sind(Ed)*sind(local) sind(Ed)^2-cosd(angle)^2*cosd(local)^2 ] )
+angle1=asind(result(1));%无用根
+angle2=asind(result(2));
+w=acosd( ( result(1)-sind(Ed)*sind(local) )/ ( cosd(Ed)*cosd(local) ) );%无用时角
+w=acosd( ( result(2)-sind(Ed)*sind(local) )/ ( cosd(Ed)*cosd(local) ) );
+w=w;%A角为-w
+t=w/15+12

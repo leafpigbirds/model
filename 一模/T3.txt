@@ -1,0 +1,541 @@
+ 7#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.142 
+Floor:32  Time: 8.553 
+Floor:31  Time: 7.952 
+Floor:30  Time: 7.339 
+Floor:29  Time: 6.711 
+Floor:28  Time: 6.064 
+Floor:27  Time: 5.393 
+Floor:26  Time: 4.686 
+Floor:25  Time: 3.921 
+Floor:24  Time: 3.051 
+Floor:23  Time: 1.933 
+Floor:22  Time: 0.000 
+Floor:21  Time: 0.000 
+Floor:20  Time: 0.000 
+Floor:19  Time: 0.000 
+Floor:18  Time: 0.000 
+Floor:17  Time: 0.000 
+Floor:16  Time: 0.000 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+ 8#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.202 
+Floor:32  Time: 8.675 
+Floor:31  Time: 8.139 
+Floor:30  Time: 7.593 
+Floor:29  Time: 7.036 
+Floor:28  Time: 6.466 
+Floor:27  Time: 5.880 
+Floor:26  Time: 5.273 
+Floor:25  Time: 4.633 
+Floor:24  Time: 3.946 
+Floor:23  Time: 3.177 
+Floor:22  Time: 2.240 
+Floor:21  Time: 0.563 
+Floor:20  Time: 0.000 
+Floor:19  Time: 0.000 
+Floor:18  Time: 0.000 
+Floor:17  Time: 0.000 
+Floor:16  Time: 0.000 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+ 9#
+Floor:34  Time:11.066 
+Floor:33  Time:10.737 
+Floor:32  Time:10.403 
+Floor:31  Time:10.063 
+Floor:30  Time: 9.718 
+Floor:29  Time: 9.368 
+Floor:28  Time: 9.014 
+Floor:27  Time: 8.655 
+Floor:26  Time: 8.291 
+Floor:25  Time: 7.923 
+Floor:24  Time: 7.550 
+Floor:23  Time: 7.172 
+Floor:22  Time: 6.789 
+Floor:21  Time: 6.399 
+Floor:20  Time: 6.001 
+Floor:19  Time: 5.594 
+Floor:18  Time: 5.175 
+Floor:17  Time: 4.741 
+Floor:16  Time: 4.287 
+Floor:15  Time: 3.804 
+Floor:14  Time: 3.280 
+Floor:13  Time: 2.689 
+Floor:12  Time: 1.971 
+Floor:11  Time: 0.841 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+10#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.403 
+Floor:32  Time: 9.085 
+Floor:31  Time: 8.763 
+Floor:30  Time: 8.437 
+Floor:29  Time: 8.108 
+Floor:28  Time: 7.775 
+Floor:27  Time: 7.438 
+Floor:26  Time: 7.097 
+Floor:25  Time: 6.751 
+Floor:24  Time: 6.399 
+Floor:23  Time: 6.042 
+Floor:22  Time: 5.677 
+Floor:21  Time: 5.303 
+Floor:20  Time: 4.917 
+Floor:19  Time: 4.518 
+Floor:18  Time: 4.098 
+Floor:17  Time: 3.653 
+Floor:16  Time: 3.170 
+Floor:15  Time: 2.626 
+Floor:14  Time: 1.973 
+Floor:13  Time: 1.012 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+11#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.499 
+Floor:32  Time: 9.278 
+Floor:31  Time: 9.055 
+Floor:30  Time: 8.830 
+Floor:29  Time: 8.604 
+Floor:28  Time: 8.375 
+Floor:27  Time: 8.145 
+Floor:26  Time: 7.913 
+Floor:25  Time: 7.679 
+Floor:24  Time: 7.444 
+Floor:23  Time: 7.206 
+Floor:22  Time: 6.966 
+Floor:21  Time: 6.724 
+Floor:20  Time: 6.479 
+Floor:19  Time: 6.231 
+Floor:18  Time: 5.980 
+Floor:17  Time: 5.725 
+Floor:16  Time: 5.466 
+Floor:15  Time: 5.201 
+Floor:14  Time: 4.931 
+Floor:13  Time: 4.654 
+Floor:12  Time: 4.369 
+Floor:11  Time: 4.073 
+Floor:10  Time: 3.764 
+Floor: 9  Time: 3.438 
+Floor: 8  Time: 3.090 
+Floor: 7  Time: 2.711 
+Floor: 6  Time: 2.286 
+Floor: 5  Time: 1.779 
+Floor: 4  Time: 1.083 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+12#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.521 
+Floor:32  Time: 9.322 
+Floor:31  Time: 9.122 
+Floor:30  Time: 8.920 
+Floor:29  Time: 8.717 
+Floor:28  Time: 8.512 
+Floor:27  Time: 8.306 
+Floor:26  Time: 8.098 
+Floor:25  Time: 7.889 
+Floor:24  Time: 7.679 
+Floor:23  Time: 7.467 
+Floor:22  Time: 7.253 
+Floor:21  Time: 7.037 
+Floor:20  Time: 6.820 
+Floor:19  Time: 6.601 
+Floor:18  Time: 6.379 
+Floor:17  Time: 6.155 
+Floor:16  Time: 5.928 
+Floor:15  Time: 5.698 
+Floor:14  Time: 5.464 
+Floor:13  Time: 5.227 
+Floor:12  Time: 4.984 
+Floor:11  Time: 4.737 
+Floor:10  Time: 4.482 
+Floor: 9  Time: 4.220 
+Floor: 8  Time: 3.949 
+Floor: 7  Time: 3.666 
+Floor: 6  Time: 3.368 
+Floor: 5  Time: 3.051 
+Floor: 4  Time: 2.708 
+Floor: 3  Time: 2.327 
+Floor: 2  Time: 1.885 
+Floor: 1  Time: 1.322 
+13#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.148 
+Floor:32  Time: 8.565 
+Floor:31  Time: 7.970 
+Floor:30  Time: 7.363 
+Floor:29  Time: 6.742 
+Floor:28  Time: 6.104 
+Floor:27  Time: 5.441 
+Floor:26  Time: 4.744 
+Floor:25  Time: 3.993 
+Floor:24  Time: 3.145 
+Floor:23  Time: 2.080 
+Floor:22  Time: 0.000 
+Floor:21  Time: 0.000 
+Floor:20  Time: 0.000 
+Floor:19  Time: 0.000 
+Floor:18  Time: 0.000 
+Floor:17  Time: 0.000 
+Floor:16  Time: 0.000 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+14#
+Floor:34  Time: 9.718 
+Floor:33  Time: 9.306 
+Floor:32  Time: 8.888 
+Floor:31  Time: 8.464 
+Floor:30  Time: 8.033 
+Floor:29  Time: 7.596 
+Floor:28  Time: 7.152 
+Floor:27  Time: 6.700 
+Floor:26  Time: 6.239 
+Floor:25  Time: 5.766 
+Floor:24  Time: 5.279 
+Floor:23  Time: 4.771 
+Floor:22  Time: 4.237 
+Floor:21  Time: 3.661 
+Floor:20  Time: 3.020 
+Floor:19  Time: 2.256 
+Floor:18  Time: 1.140 
+Floor:17  Time: 0.000 
+Floor:16  Time: 0.000 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+17#
+Floor:34  Time:12.262 
+Floor:33  Time:11.661 
+Floor:32  Time:11.035 
+Floor:31  Time:10.387 
+Floor:30  Time: 9.718 
+Floor:29  Time: 9.031 
+Floor:28  Time: 8.326 
+Floor:27  Time: 7.604 
+Floor:26  Time: 6.863 
+Floor:25  Time: 6.097 
+Floor:24  Time: 5.297 
+Floor:23  Time: 4.441 
+Floor:22  Time: 3.486 
+Floor:21  Time: 2.302 
+Floor:20  Time: 0.000 
+Floor:19  Time: 0.000 
+Floor:18  Time: 0.000 
+Floor:17  Time: 0.000 
+Floor:16  Time: 0.000 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+18#
+Floor:34  Time:11.532 
+Floor:33  Time:11.095 
+Floor:32  Time:10.646 
+Floor:31  Time:10.187 
+Floor:30  Time: 9.718 
+Floor:29  Time: 9.240 
+Floor:28  Time: 8.754 
+Floor:27  Time: 8.259 
+Floor:26  Time: 7.756 
+Floor:25  Time: 7.244 
+Floor:24  Time: 6.721 
+Floor:23  Time: 6.186 
+Floor:22  Time: 5.635 
+Floor:21  Time: 5.063 
+Floor:20  Time: 4.460 
+Floor:19  Time: 3.810 
+Floor:18  Time: 3.083 
+Floor:17  Time: 2.197 
+Floor:16  Time: 0.689 
+Floor:15  Time: 0.000 
+Floor:14  Time: 0.000 
+Floor:13  Time: 0.000 
+Floor:12  Time: 0.000 
+Floor:11  Time: 0.000 
+Floor:10  Time: 0.000 
+Floor: 9  Time: 0.000 
+Floor: 8  Time: 0.000 
+Floor: 7  Time: 0.000 
+Floor: 6  Time: 0.000 
+Floor: 5  Time: 0.000 
+Floor: 4  Time: 0.000 
+Floor: 3  Time: 0.000 
+Floor: 2  Time: 0.000 
+Floor: 1  Time: 0.000 
+ 5#
+Floor:30  Time:22.769 
+Floor:29  Time:22.642 
+Floor:28  Time:22.513 
+Floor:27  Time:22.380 
+Floor:26  Time:22.241 
+Floor:25  Time:22.096 
+Floor:24  Time:21.943 
+Floor:23  Time:21.780 
+Floor:22  Time:21.606 
+Floor:21  Time:21.418 
+Floor:20  Time:21.214 
+Floor:19  Time:20.992 
+Floor:18  Time:20.746 
+Floor:17  Time:20.474 
+Floor:16  Time:20.170 
+Floor:15  Time:19.828 
+Floor:14  Time:19.439 
+Floor:13  Time:18.995 
+Floor:12  Time:18.482 
+Floor:11  Time:17.885 
+Floor:10  Time:17.188 
+Floor: 9  Time:16.370 
+Floor: 8  Time:15.409 
+Floor: 7  Time:14.287 
+Floor: 6  Time:12.992 
+Floor: 5  Time:11.530 
+Floor: 4  Time: 9.921 
+Floor: 3  Time: 8.192 
+Floor: 2  Time: 6.349 
+Floor: 1  Time: 4.294 
+ 5#
+ 5#
+Floor:30  Time:22.769  Angle:-76.561
+Floor:29  Time:22.642  Angle:-76.047
+Floor:28  Time:22.513  Angle:-75.493
+Floor:27  Time:22.380  Angle:-74.893
+Floor:26  Time:22.241  Angle:-74.244
+Floor:25  Time:22.096  Angle:-73.537
+Floor:24  Time:21.943  Angle:-72.766
+Floor:23  Time:21.780  Angle:-71.922
+Floor:22  Time:21.606  Angle:-70.995
+Floor:21  Time:21.418  Angle:-69.971
+Floor:20  Time:21.214  Angle:-68.835
+Floor:19  Time:20.992  Angle:-67.571
+Floor:18  Time:20.746  Angle:-66.154
+Floor:17  Time:20.474  Angle:-64.560
+Floor:16  Time:20.170  Angle:-62.754
+Floor:15  Time:19.828  Angle:-60.697
+Floor:14  Time:19.439  Angle:-58.338
+Floor:13  Time:18.995  Angle:-55.616
+Floor:12  Time:18.482  Angle:-52.455
+Floor:11  Time:17.885  Angle:-48.765
+Floor:10  Time:17.188  Angle:-44.441
+Floor: 9  Time:16.370  Angle:-39.367
+Floor: 8  Time:15.409  Angle:-33.434
+Floor: 7  Time:14.287  Angle:-26.565
+Floor: 6  Time:12.992  Angle:-18.767
+Floor: 5  Time:11.530  Angle:-10.179
+Floor: 4  Time: 9.921  Angle:-1.108
+Floor: 3  Time: 8.192  Angle: 8.019
+Floor: 2  Time: 6.349  Angle:16.757
+Floor: 1  Time: 4.294  Angle:24.765
+ 5#
+Floor:30  Time:22.769  Angle:-76.561
+Floor:29  Time:22.642  Angle:-76.047
+Floor:28  Time:22.513  Angle:-75.493
+Floor:27  Time:22.380  Angle:-74.893
+Floor:26  Time:22.241  Angle:-74.244
+Floor:25  Time:22.096  Angle:-73.537
+Floor:24  Time:21.943  Angle:-72.766
+Floor:23  Time:21.780  Angle:-71.922
+Floor:22  Time:21.606  Angle:-70.995
+Floor:21  Time:21.418  Angle:-69.971
+Floor:20  Time:21.214  Angle:-68.835
+Floor:19  Time:20.992  Angle:-67.571
+Floor:18  Time:20.746  Angle:-66.154
+Floor:17  Time:20.474  Angle:-64.560
+Floor:16  Time:20.170  Angle:-62.754
+Floor:15  Time:19.828  Angle:-60.697
+Floor:14  Time:19.439  Angle:-58.338
+Floor:13  Time:18.995  Angle:-55.616
+Floor:12  Time:18.482  Angle:-52.455
+Floor:11  Time:17.885  Angle:-48.765
+Floor:10  Time:17.188  Angle:-44.441
+Floor: 9  Time:16.370  Angle:-39.367
+Floor: 8  Time:15.409  Angle:-33.434
+Floor: 7  Time:14.287  Angle:-26.565
+Floor: 6  Time:12.992  Angle:-18.767
+Floor: 5  Time:11.530  Angle:-10.179
+Floor: 4  Time: 9.921  Angle:-1.108
+Floor: 3  Time: 8.192  Angle: 8.019
+Floor: 2  Time: 6.349  Angle:16.757
+Floor: 1  Time: 4.294  Angle:24.765
+ 5#
+Floor:30  Time:22.769  Angle:-76.561
+Floor:29  Time:22.642  Angle:-76.047
+Floor:28  Time:22.513  Angle:-75.493
+Floor:27  Time:22.380  Angle:-74.893
+Floor:26  Time:22.241  Angle:-74.244
+Floor:25  Time:22.096  Angle:-73.537
+Floor:24  Time:21.943  Angle:-72.766
+Floor:23  Time:21.780  Angle:-71.922
+Floor:22  Time:21.606  Angle:-70.995
+Floor:21  Time:21.418  Angle:-69.971
+Floor:20  Time:21.214  Angle:-68.835
+Floor:19  Time:20.992  Angle:-67.571
+Floor:18  Time:20.746  Angle:-66.154
+Floor:17  Time:20.474  Angle:-64.560
+Floor:16  Time:20.170  Angle:-62.754
+Floor:15  Time:19.828  Angle:-60.697
+Floor:14  Time:19.439  Angle:-58.338
+Floor:13  Time:18.995  Angle:-55.616
+Floor:12  Time:18.482  Angle:-52.455
+Floor:11  Time:17.885  Angle:-48.765
+Floor:10  Time:17.188  Angle:-44.441
+Floor: 9  Time:16.370  Angle:-39.367
+Floor: 8  Time:15.409  Angle:-33.434
+Floor: 7  Time:14.287  Angle:-26.565
+Floor: 6  Time:12.992  Angle:-18.767
+Floor: 5  Time:11.530  Angle:-10.179
+Floor: 4  Time: 9.921  Angle:-1.108
+Floor: 3  Time: 8.192  Angle: 8.019
+Floor: 2  Time: 6.349  Angle:16.757
+Floor: 1  Time: 4.294  Angle:24.765
+ 5#
+Floor:30  Time: 9.718  Angle: 0.000
+Floor:29  Time: 9.718  Angle: 0.000
+Floor:28  Time: 9.718  Angle: 0.000
+Floor:27  Time: 9.718  Angle: 0.000
+Floor:26  Time: 9.718  Angle: 0.000
+Floor:25  Time: 9.718  Angle: 0.000
+Floor:24  Time: 9.718  Angle: 0.000
+Floor:23  Time: 9.718  Angle: 0.000
+Floor:22  Time: 9.718  Angle: 0.000
+Floor:21  Time: 9.718  Angle: 0.000
+Floor:20  Time: 9.718  Angle: 0.000
+Floor:19  Time: 9.718  Angle: 0.000
+Floor:18  Time: 9.718  Angle: 0.000
+Floor:17  Time: 9.718  Angle: 0.000
+Floor:16  Time: 9.718  Angle: 0.000
+Floor:15  Time: 9.718  Angle: 0.000
+Floor:14  Time: 9.718  Angle: 0.000
+Floor:13  Time: 9.718  Angle: 0.000
+Floor:12  Time: 9.718  Angle: 0.000
+Floor:11  Time: 9.718  Angle: 0.000
+Floor:10  Time: 9.718  Angle: 0.000
+Floor: 9  Time: 9.718  Angle: 0.000
+Floor: 8  Time: 9.718  Angle: 0.000
+Floor: 7  Time: 9.718  Angle: 0.000
+Floor: 6  Time: 9.718  Angle: 0.000
+Floor: 5  Time: 9.718  Angle: 0.000
+Floor: 4  Time: 9.718  Angle: 0.000
+Floor: 3  Time: 8.192  Angle: 8.019
+Floor: 2  Time: 6.349  Angle:16.757
+Floor: 1  Time: 4.294  Angle:24.765
+ 4#
+Floor:34  Time: 9.718
+Floor:33  Time: 9.718
+Floor:32  Time: 9.718
+Floor:31  Time: 9.718
+Floor:30  Time: 9.718
+Floor:29  Time: 9.718
+Floor:28  Time: 9.718
+Floor:27  Time: 9.718
+Floor:26  Time: 9.718
+Floor:25  Time: 9.718
+Floor:24  Time: 9.718
+Floor:23  Time: 9.718
+Floor:22  Time: 9.718
+Floor:21  Time: 9.718
+Floor:20  Time: 9.718
+Floor:19  Time: 9.718
+Floor:18  Time: 9.718
+Floor:17  Time: 9.718
+Floor:16  Time: 9.718
+Floor:15  Time: 9.718
+Floor:14  Time: 9.718
+Floor:13  Time: 9.718
+Floor:12  Time: 9.718
+Floor:11  Time: 9.718
+Floor:10  Time: 9.718
+Floor: 9  Time: 9.718
+Floor: 8  Time: 9.718
+Floor: 7  Time: 9.718
+Floor: 6  Time: 9.718
+Floor: 5  Time: 9.718
+Floor: 4  Time: 9.718
+Floor: 3  Time: 8.568
+Floor: 2  Time: 7.201
+Floor: 1  Time: 5.755
