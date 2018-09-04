@@ -1,0 +1,19 @@
+data=imread('C:\Users\leafpigbirds\Desktop\4个连通块-std.bmp');
+mean1Sample=filter2(fspecial('average',3),data)/255;%DATA1
+mean1Sample=mean1Sample*1000;
+imshow(mean1Sample,[0,0.5]);
+hold on;
+% plot(245,228,'r+',245,228,'g+');//正八边形 r为原图 g为旋转后
+% plot(237,278,'r+',238,277,'g+');//正六边形 r为原图 g为旋转后
+%坐标误差 百分之一
+%矩形标准 280，210   旋转280，209
+% plot(280,210,'r+',280,209,'g+');
+%平行四边形标准 280，210    旋转280，210
+% plot(280,210,'r+',280,210,'g+');
+plot(280,210,'g+');
+hold on;
+%3个连通块-std
+% plot(225,148,'r+',299,228,'r+');
+%3个连通块-旋转57度
+% plot(302,130,'r+',275,236,'r+');
+% %plot()
